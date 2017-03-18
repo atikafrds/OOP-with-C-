@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['getage',['getAge',['../class_makhluk.html#aacc58e5140aa9539559561964b49d702',1,'Makhluk']]],
+  ['getallmem',['getAllMem',['../class_list_of_makhluk.html#a334a2f2965617f30c00a1421f1003286',1,'ListOfMakhluk']]],
+  ['getcellelmt',['getCellElmt',['../class_world.html#ad2cbc4a5f1ef6678f0bbc8d827486414',1,'World']]],
+  ['getcolumn',['getColumn',['../class_world.html#a7b6a2c3e7383bc17e532b911dd707190',1,'World']]],
+  ['getdirection',['getDirection',['../class_hewan.html#a93eec609151f36c876ab73d6b6ba7e68',1,'Hewan::getDirection()'],['../class_makhluk.html#af07a8e00b5edfbf6e662af3376ffadb4',1,'Makhluk::getDirection()']]],
+  ['getdirectionmem',['getDirectionMem',['../class_world.html#a54f98bc4d6b9ed27ed0cb8b460a5b75e',1,'World']]],
+  ['getid',['getID',['../class_makhluk.html#a75f6bfb6da5fac803c15a4e3e6d8c80c',1,'Makhluk']]],
+  ['getidmem',['getIDMem',['../class_world.html#acfd4114bd3007cd3dfcbb47812862edf',1,'World']]],
+  ['getlom',['getLOM',['../class_world.html#aa928524c3769e53ee7b12baf6588ed9f',1,'World']]],
+  ['getmem',['getMem',['../class_list_of_makhluk.html#ae8a5d42dab5647093e9c17a4b4112de7',1,'ListOfMakhluk']]],
+  ['getneff',['getNEff',['../class_list_of_makhluk.html#a7b39b281b4f022dd1d99a56d0593997c',1,'ListOfMakhluk']]],
+  ['getnmax',['getNMax',['../class_list_of_makhluk.html#a2b3df0cb259cbcac3c341b1d748c2646',1,'ListOfMakhluk']]],
+  ['getposition',['getPosition',['../class_makhluk.html#aa3d620a323578839d37a5451f8d35b31',1,'Makhluk']]],
+  ['getpositionmem',['getPositionMem',['../class_world.html#a4317a2a96470ecc00e00f442418c5cfd',1,'World']]],
+  ['getrow',['getRow',['../class_world.html#a58cf084f73aa6a37bad7fe3dd634b59f',1,'World']]],
+  ['getspeed',['getSpeed',['../class_hewan.html#a1222930c82b2c866927243c12a319490',1,'Hewan::getSpeed()'],['../class_makhluk.html#a85fe9a70972b7404de55db28a434f902',1,'Makhluk::getSpeed()']]],
+  ['getspeedmem',['getSpeedMem',['../class_world.html#aee64d9dc2ac39ceafb5d863cacc0284f',1,'World']]],
+  ['getstrength',['getStrength',['../class_makhluk.html#acb23b8ed7d91e7251bbf7e718ccf2692',1,'Makhluk']]],
+  ['getstrengthmem',['getStrengthMem',['../class_world.html#af50a57eb2c2191433859f48a4e75bb63',1,'World']]],
+  ['getx',['getX',['../class_point.html#a0b82a4aa9614c11854abc507d89a70a9',1,'Point']]],
+  ['getxmem',['getXMem',['../class_world.html#a9c09a20badee17c58a5387f2afed063c',1,'World']]],
+  ['gety',['getY',['../class_point.html#a3770f321c49dfe7ca463900fddc2e2bc',1,'Point']]],
+  ['getymem',['getYMem',['../class_world.html#a17d21d11efbd9efe0605d3c5faf2c6dc',1,'World']]]
+];
